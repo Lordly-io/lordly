@@ -1,4 +1,4 @@
-# Lordly
+![Lordly Icon](./assets/icon-lordly.svg) # Lordly
 
 > Intelligence infrastructure for modern businesses.
 
