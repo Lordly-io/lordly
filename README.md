@@ -9,9 +9,10 @@ We transform fragmented data into clarity, direction, and execution.
 <p align="center">
   <a href="https://lordly.io">Website</a> •
   <a href="https://status.lordly.io">Status</a> •
-  <a href="https://docs.lordly.io">Docs (coming soon)</a> •
-  <a href="https://developers.lordly.io">Developers (coming soon)</a> •
-  <a href="https://api.lordly.io">API (coming soon)</a>
+  <a href="#">Docs *(coming soon)*</a> •
+  <a href="#">Developers *(coming soon)*</a> •
+  <a href="#">API (coming soon)</a> •
+  <a href="https://github.com/lordly-io/.github">Public Profile Repository</a>
 </p>
 
 ---
