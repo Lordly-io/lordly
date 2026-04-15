@@ -1,5 +1,5 @@
 <div align="center">
-  ![Lordly Icon](./assets/icon-lordly.svg)
+  <img src="./assets/icon-lordly.svg" alt="Lordly Icon" />
 </div>
 
 # Lordly
