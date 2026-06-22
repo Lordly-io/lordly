@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="./assets/icon-lordly.svg" alt="Lordly Icon" />
+  <img src="./assets/icon-lordly.svg" alt="lOrdly Icon" />
 </div>
 
-# Lordly
+# lOrdly
 
-> Intelligence infrastructure for modern businesses.
+> Decision Intelligence as a Service.
 
-Lordly is a technology company building data, automation, and intelligence systems for the next generation of digital businesses.
+lOrdly is a technology company building decision intelligence systems for digital businesses in Brazil.
 
-We transform fragmented data into clarity, direction, and execution.
+We help businesses discover where they're losing sales and which action to prioritize — turning fragmented data into clear, actionable decisions.
 
 <p align="center">
   <a href="https://lordly.io">Website</a> •
+  <a href="https://app.lordly.io">Platform</a> •
+  <a href="https://chat.lordly.io">ChatAI</a> •
   <a href="https://status.lordly.io">Status</a> •
   <a href="#">Docs *(coming soon)*</a> •
-  <a href="#">Developers *(coming soon)*</a> •
-  <a href="#">API (coming soon)</a> •
   <a href="https://github.com/lordly-io/.github">Public Profile Repository</a>
 </p>
 
@@ -23,58 +23,61 @@ We transform fragmented data into clarity, direction, and execution.
 
 ## Overview
 
-Lordly is building a new kind of platform: one that connects data, context, workflows, and intelligence into a single strategic layer.
+lOrdly is building a new kind of platform: one that reads business data, identifies the real problem, quantifies the impact, benchmarks against competitors, and produces an execution plan.
 
-Today, we focus on:
+We focus on:
 
-- business data analysis  
-- automated insights  
-- strategic recommendations  
-- operational clarity  
+- decision intelligence for digital businesses  
+- narrative insights in plain language  
+- strategic recommendations with financial impact  
+- competitive benchmarking  
 
-Tomorrow, we expand into a broader ecosystem of intelligent systems for business operations.
+Not dashboards. Decisions.
 
 ---
 
 ## Mission
 
-To make advanced business intelligence and automation accessible to modern companies.
+To make strategic-level decision intelligence accessible to digital businesses — without requiring a data team.
 
 ---
 
 ## Vision
 
-We believe every company should have access to executive-level intelligence without needing a full data team.
+Every company should have access to executive-level intelligence without needing a full data team.
 
-Lordly exists to turn complexity into clarity — and data into action.
+lOrdly exists to turn complexity into clarity — and data into decisions.
 
 ---
 
 ## What we do
 
-Lordly helps companies:
+lOrdly helps digital businesses:
 
-- understand their data  
-- detect opportunities and risks  
-- generate actionable insights  
-- define priorities  
+- discover where they're losing sales  
+- understand why it's happening  
+- quantify the financial impact  
+- prioritize the right action  
 - execute with clarity  
 
-We go beyond dashboards.
-
-We deliver interpretation and direction.
+We deliver decisions, not reports.
 
 ---
 
+## Products
+
+- **[app.lordly.io](https://app.lordly.io)** — Decision Intelligence platform (paid). Connects GA4 and Google Search Console to produce narrative intelligence for CEOs and growth managers.
+- **[chat.lordly.io](https://chat.lordly.io)** — ChatAI (free). Specialized for marketing and business growth in the Brazilian market.
+- **lOrdlyOS** *(future)* — Internal intelligence OS for businesses: agents, workflows, organizational memory.
+
 ## Platform direction
 
-Lordly is evolving into a modular ecosystem that may include:
+lOrdly is evolving into a modular ecosystem that may include:
 
-- data intelligence systems  
+- decision intelligence systems  
 - automation layers  
 - developer tools  
 - business infrastructure  
-- financial and operational services  
 
 We are building a long-term platform.
 
@@ -102,15 +105,9 @@ We are building a long-term platform.
 
 ## Roadmap
 
-Lordly is in active development.
+lOrdly is in active development.
 
-Current focus:
-
-- core intelligence systems  
-- insights generation  
-- strategic layers  
-- operational tools  
-- expansion of platform capabilities  
+See [docs/roadmap.md](./docs/roadmap.md) for details.
 
 ---
 

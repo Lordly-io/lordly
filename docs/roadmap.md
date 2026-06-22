@@ -1,24 +1,29 @@
 # Roadmap
 
-Lordly is evolving in stages.
+lOrdly is evolving through deliberate, prioritized stages.
 
 ## Current focus
 
-- intelligence systems  
-- insights generation  
-- strategic recommendations  
+- decision intelligence engine  
+- narrative insights in plain language  
+- GA4 and Google Search Console integration  
+- competitive benchmarking  
+- action plan generation  
 
 ## Next steps
 
-- automation layers  
-- goal systems  
-- operational workflows  
+- expanded data source integrations  
+- goal-tracking and outcome measurement  
+- automated monitoring and alerts  
+- team collaboration features  
 
 ## Future
 
-- developer platform  
-- API ecosystem  
-- business infrastructure  
-- financial and operational services  
+- lOrdlyOS — internal intelligence OS for businesses  
+- developer platform and API ecosystem  
+- agent-based workflows  
+- organizational memory layer  
 
-Roadmap is subject to change as the platform evolves.
+---
+
+Roadmap evolves as we learn from users. The north star remains constant: reduce the time between seeing data and making a better decision.
