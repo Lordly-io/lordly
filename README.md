@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/icon-lordly.svg" alt="lOrdly Icon" />
+  <img src="./assets/logo-icon-lOrdly-color.png" alt="lOrdly" width="80" />
 </div>
 
 # lOrdly
